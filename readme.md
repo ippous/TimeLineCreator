@@ -104,7 +104,7 @@ The application reads and writes data in the following JSON format:
 
 ### Main Interface:
 
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](screenshots/maininterface.png)
 
 ### Adding a Task:
 
