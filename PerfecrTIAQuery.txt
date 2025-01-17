@@ -1,0 +1,14 @@
+"Je souhaite un éditeur sous Windows, construit avec Python et utilisant une interface graphique (par exemple, Tkinter). Cet éditeur devra :
+Charger les données d'un fichier JSON structuré contenant :
+Une date de début et une date de fin.
+Une liste de tâches, chaque tâche ayant un titre, une date de début, et une date de fin.
+Une liste de jalons, chaque jalon ayant un titre, une date, une couleur et un pourcentage optionnel.
+Permettre de :
+Modifier les dates de début et de fin du projet.
+Ajouter, modifier, ou supprimer des tâches. Les champs nécessaires pour une tâche sont : le titre, la date de début et la date de fin.
+Ajouter, modifier, ou supprimer des jalons. Les champs nécessaires pour un jalon sont : le titre, la date, la couleur et le pourcentage.
+Utiliser un sélecteur de date interactif pour toutes les dates.
+Afficher les tâches et les jalons dans des tableaux interactifs.
+Offrir la possibilité de sauvegarder les modifications dans un fichier JSON, ou d'enregistrer sous un nouveau nom.
+Offrir une interface intuitive avec des boutons pour chaque action (ajout, modification, suppression) et une barre de menu pour charger et sauvegarder les fichiers.
+En résumé, je veux un éditeur simple et intuitif pour gérer mes données de timeline JSON, sans dépendance inutile, mais avec une expérience utilisateur fluide."
