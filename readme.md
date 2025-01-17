@@ -1,5 +1,6 @@
 # Timeline Editor
 
+(Build By IA)
 An intuitive timeline editor built with Python and Tkinter for managing project tasks and milestones stored in a JSON file. This tool is designed to be user-friendly, offering a graphical interface to add, edit, and remove tasks and milestones, while providing features like a date picker and percentage tracking for milestones.
 
 ---
